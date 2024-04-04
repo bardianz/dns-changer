@@ -10,10 +10,11 @@ Notro DNS is a Windows client application that connects to a web server and fetc
 * Windows >= 10
 * .NetFramework 4.8
 
-#### How to Install:
+#### How to use:
 
-- [ ] _Downoald Setup file via Releases section and just run setup file and select installation path to finish installation_
+- [ ] _Download Setup file via Releases section_
 
+- [ ] _And just run setup file and select installation path to finish installation_
 
 ## Contact
 BardiaNikbakhsh@gmail.com
