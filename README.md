@@ -12,7 +12,7 @@ Notro DNS is a Windows client application that connects to a web server and fetc
 
 #### How to Install:
 
-- [ ] _Just run setup file and select installation path to finish installation_
+- [ ] _Downoald Setup file via Releases section and just run setup file and select installation path to finish installation_
 
 
 ## Contact
